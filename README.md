@@ -1,4 +1,4 @@
-# Worlds Fastest Website
+# Worlds Fastest Blog
 
 I want to make my Blog faster, secure and efficient in all aspects. In the beginning I don't know much about all of this but in this process I learnt a lot of new things.
 
