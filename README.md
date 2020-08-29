@@ -1,11 +1,11 @@
 # Worlds Fastest Blog
 
-I want to make my Blog faster, secure and efficient in all aspects. In the beginning I don't know much about all of this but in this process I learnt a lot of new things.
+I wanted to make my Blog faster, secure and efficient in all aspects. In the beginning I don't know much about all of this but in this process I learnt a lot of new things.
 
 * Visit [matrixread.com](https://matrixread.com)
 
 ### 🔰Latest Pagespeed Score
-<img src="https://github.com/AbhiramReddyD/Worlds-Fastest-Website/blob/master/images/Capture.PNG" height="220" width="350">
+<img src="https://github.com/AbhiramReddyD/Worlds-Fastest-Website/blob/master/images/Capture.PNG" height="210" width="350">
 
 # ⏩Matrixread V 2.0 [August 2020]
 This is a fantastic update I've changed a lot of things and added many new features too. Launched after two months from date of Launch.
@@ -13,7 +13,7 @@ This is a fantastic update I've changed a lot of things and added many new featu
 * 💯PageSpeed Score Avg[100]
 * ✅Upgraded to WordPress 5.5
 * 💻Code Syntax Highlighting with Prsim.js
-* 🆗Lazyloading with LIQP [Low Quality Image Placeholder]
+* 🆗Lazyloading with LQIP [Low Quality Image Placeholder]
 * 💥Intelligent Caching, Full Static Site but important parts are Dynamic
 * 🔒 Cookieless and more Secure now, visitor ip anonymization [hashing]
 
