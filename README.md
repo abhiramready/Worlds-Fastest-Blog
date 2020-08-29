@@ -8,7 +8,7 @@ I want to make my Blog faster, secure and efficient in all aspects. In the begin
 <img src="https://github.com/AbhiramReddyD/Worlds-Fastest-Website/blob/master/images/Capture.PNG" height="220" width="350">
 
 # ⏩Matrixread V 2.0 [August 2020]
-This is a fantastic update I've changed a lot of things and added many new features too. Launched after two moths from date of Launch.
+This is a fantastic update I've changed a lot of things and added many new features too. Launched after two months from date of Launch.
 * 💯GTMetrix Score Avg[100]
 * 💯PageSpeed Score Avg[100]
 * ✅Upgraded to WordPress 5.5
