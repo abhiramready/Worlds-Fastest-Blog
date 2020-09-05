@@ -12,8 +12,7 @@ On a mission to Deliver Faster, Secure, Optimized, and more Accessible Content
 <img src="https://github.com/AbhiramReddyD/Worlds-Fastest-Website/blob/master/images/Capture.PNG" height="210" width="350">
 
 # ⏩Matrixread V 2.0 [August 2020]
-This is a fantastic update I've changed a lot of things and added many new features too. Launched after two months from date of Launch.
-* 💯GTMetrix Score Avg[100]
+This is a fantastic update I've changed a lot of things and added many new features too
 * 💯PageSpeed Score Avg[100]
 * ✅Upgraded to WordPress 5.5
 * 💻Code Syntax Highlighting with Prsim.js
