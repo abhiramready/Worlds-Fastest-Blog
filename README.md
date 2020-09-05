@@ -1,8 +1,12 @@
-# Worlds Fastest Blog
-
-I wanted to make my Blog faster, secure and efficient in all aspects. In the beginning I don't know much about all of this but in this process I learnt a lot of new things.
-
-* Visit [matrixread.com](https://matrixread.com)
+<h1 align="center">
+	🌏Worlds 🚀Fastest 📰Blog
+</h1>
+<h2 align="center">
+On a mission to Deliver Faster, Secure, Optimized, and more Accessible Content
+</h2>
+<h3 align="center">
+<a href="https://matrixread.com/">matrixread.com</a>
+</h3>
 
 ### 🔰Latest Pagespeed Score
 <img src="https://github.com/AbhiramReddyD/Worlds-Fastest-Website/blob/master/images/Capture.PNG" height="210" width="350">
