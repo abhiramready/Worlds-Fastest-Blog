@@ -1,9 +1,9 @@
 <h1 align="center">
 	🌏Worlds 🚀Fastest 📰Blog
 </h1>
-<h2 align="center">
+<h3 align="center">
 On a mission to Deliver Secure, Fast, Optimized, and Accessible Content Free to Everyone
-</h2>
+</h3>
 <h3 align="center">
 <a href="https://matrixread.com/">matrixread.com</a>
 </h3>
