@@ -2,7 +2,7 @@
 	🌏Worlds 🚀Fastest 📰Blog
 </h1>
 <h2 align="center">
-On a mission to Deliver Faster, Secure, Optimized, and more Accessible Content
+On a mission to Deliver Secure, Fast, Optimized, and Accessible Content Free to Everyone
 </h2>
 <h3 align="center">
 <a href="https://matrixread.com/">matrixread.com</a>
