@@ -10,6 +10,8 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible Content Free to 
 
 ### 🔰Latest Pagespeed Score
 <img src="https://github.com/AbhiramReddyD/Worlds-Fastest-Website/blob/master/images/Capture.PNG" height="210" width="350">
+*Applies for Induvidual Pages not Home and Feed
+
 
 ## ⏩Matrixread V 2.0 [August 2020]
 This is a fantastic update I've changed a lot of things and added many new features too
