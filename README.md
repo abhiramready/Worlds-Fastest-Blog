@@ -38,5 +38,3 @@ This is the first version, launched after one month of matrixread launch
 💯GTMetrix Score Avg[100]
 
 💯PageSpeed Score Avg[99]
-
-🤩Theme : Neve Pro Customized
