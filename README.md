@@ -9,7 +9,7 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible Content Free to 
 </h3>
 
 ### 🔰Latest Pagespeed Score
-<img src="https://github.com/AbhiramReddyD/Worlds-Fastest-Website/blob/master/images/Capture.PNG" height="210" width="350">
+<img src="https://github.com/AbhiramReddyD/Worlds-Fastest-Website/blob/master/images/pagespeed.PNG" height="250" width="375">
 *Applies for Induvidual Pages not Home and Feed
 
 
