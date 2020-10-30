@@ -1,5 +1,5 @@
 <h1 align="center">
-	🌏Worlds 🚀Fastest 📰Blog
+	🌏Worlds 🚀Best 📰Blog
 </h1>
 <h3 align="center">
 On a mission to Deliver Secure, Fast, Optimized, and Accessible Content Free to Everyone
@@ -8,33 +8,29 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible Content Free to 
 <a href="https://matrixread.com/">matrixread.com</a>
 </h3>
 
-### 🔰Latest Pagespeed Score
-<img src="https://github.com/AbhiramReddyD/Worlds-Fastest-Website/blob/master/images/pagespeed.PNG" height="250" width="375">
-*Applies for Induvidual Pages not Home and Feed
+## Technical🤖 Changelog📑
 
+## ⏩Matrixread V 2.0 [ October 2020 ]
 
-## ⏩Matrixread V 2.0 [August 2020]
-This is a fantastic update I've changed a lot of things and added many new features too
+💥 Intelligent Edge Caching
 
-💯PageSpeed Score Avg[100]
+🔐 Visitor IP Anonymization [No Tracking]
 
-✅Upgraded to WordPress 5.5
+💻 Code Syntax Highlighting with 🌈Prsim.js
 
-💻Code Syntax Highlighting with Prsim.js
+🆗 Lazyloading with LQIP [Low Quality Image Placeholder]
 
-🆗Lazyloading with LQIP [Low Quality Image Placeholder]
+✅ Upgraded to WordPress [5.5] Sucessfully [ Major update]
 
-💥Intelligent Caching, Full Static Site but important parts are Dynamic
+## ⏩Matrixread V 1.0 [ July 2020 ]
 
-🔒 Cookieless and more Secure now, visitor ip anonymization [hashing]
+❤️ Built with WordPress 
 
-## ⏩Matrixread V 1.0 [July 2020]
-This is the first version, launched after one month of matrixread launch
+🔒 Cookieless and Secure
 
 [🎥 Watch the Demo on YouTube](https://www.youtube.com/watch?v=lnvsuNZURR0)
 
-❤️Built on WordPress 
+🚀 Launched on [ 1st of July  2020 ]
 
-💯GTMetrix Score Avg[100]
+🆗 Lazyloading with LQIP [Low Quality Image Placeholder]
 
-💯PageSpeed Score Avg[99]
