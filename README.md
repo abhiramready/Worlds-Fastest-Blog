@@ -1,5 +1,5 @@
 <h1 align="center">
-	🌏Worlds 🚀Best 📰Blog
+	🌏Worlds 🚀Fastest 📰Blog
 </h1>
 <h3 align="center">
 On a mission to Deliver Secure, Fast, Optimized, and Accessible Content Free for Everyone
