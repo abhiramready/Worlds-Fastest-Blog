@@ -16,12 +16,9 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 * [16000+] visitors till date from over 68 countries🙌
 * GTMerix Pagespeed Score [99], Lighthouse Overall Score [99-100]💯
 
-***
 ## Design🎨 Version
 
 * see the whole timeline [here](https://matrixread.com/version/)
-
-***
 
 ## Technical🤖 Changelog📑
 
@@ -40,7 +37,7 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 * Lazyloading with LQIP [Low Quality Image Placeholder]
 
 ***
-📌 I am working on a series of articles on how I did all of this so, stay tuned.
+📍 I am working on a series of articles on how I did all of this so, stay tuned.
 
 📍 [Join Matrixread Newletter](https://matrixread.com/newsletter) for updates.
 
