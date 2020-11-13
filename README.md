@@ -17,11 +17,15 @@ On a mission to Deliver 🔒Secure, ⚡Fast, 🐥Optimized, and 👍Accessible c
 ***
 ## Highlights
 
-1. Unique, Custom coded theme
-2. Lowest TTFB Global PING - 60ms avg.
-3. Capable of handling [10,000] Users / Min
-4. Currently [15000+] readers from 68 countries
-5. GTMerix Pagespeed Score [99], Lighthouse Overall Score [99-100]
+🌻 Unique, Custom coded them
+
+🎯 Capable of handling [10,000] Users / Min
+
+✅ Super Optimized & Superfast WordPress Blog
+
+🙌 [16000+] visitors till date from over 68 countries
+
+💯 GTMerix Pagespeed Score [99], Lighthouse Overall Score [99-100]
 
 ***
 
