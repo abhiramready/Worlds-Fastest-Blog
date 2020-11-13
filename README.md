@@ -22,13 +22,13 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 
 ## Technical🤖 Changelog📑
 
-## Matrixread v2.0 [October 2020]
+### Matrixread v2.0 [October 2020]
 * Intelligent Edge Caching
 * Visitor IP Anonymization [No Tracking]🔐
 * Code Syntax Highlighting with Prsim.js
 * Designed and coded a custome theme for Matrixread✅
 
-## Matrixread  v1.0 [July 2020]
+### Matrixread  v1.0 [July 2020]
 
 * Built with WordPress
 * [Watch the Demo on YouTube🎥](https://www.youtube.com/watch?v=lnvsuNZURR0)
