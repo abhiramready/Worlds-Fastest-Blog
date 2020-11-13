@@ -2,7 +2,7 @@
 	🌏Worlds 🚀Fastest 📰Blog
 </h1>
 <p align="center">
-On a mission to Deliver Secure, Fast, Optimized, and Accessible content Free for Everyone
+On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 </p>
 <p align="center">
 <a href="https://matrixread.com/">matrixread.com</a>
@@ -40,4 +40,7 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content Free for
 * Lazyloading with LQIP [Low Quality Image Placeholder]
 
 ***
+📌 I am working on a series of articles on how I did all of this so, stay tuned.
+
+[Join Matrixread Newletter](https://matrixread.com/newsletter)
 
