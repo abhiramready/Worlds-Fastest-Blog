@@ -8,7 +8,7 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content Free for
 <a href="https://matrixread.com/">matrixread.com</a>
 </p>
 
-## Highlights
+## Highlights🔥
 
 * Unique, Custom coded them🌻
 *  Capable of handling [10,000] Users/Min🎯
