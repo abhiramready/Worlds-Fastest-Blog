@@ -10,11 +10,6 @@ On a mission to Deliver 🔒Secure, ⚡Fast, 🐥Optimized, and 👍Accessible c
 
 ***
 
-## Design🎨 Version💖
-
-* see the whole timeline [here](https://matrixread.com/version/)
-
-***
 ## Highlights
 
 🌻 Unique, Custom coded them
@@ -26,6 +21,11 @@ On a mission to Deliver 🔒Secure, ⚡Fast, 🐥Optimized, and 👍Accessible c
 🙌 [16000+] visitors till date from over 68 countries
 
 💯 GTMerix Pagespeed Score [99], Lighthouse Overall Score [99-100]
+
+***
+## Design🎨 Version💖
+
+* see the whole timeline [here](https://matrixread.com/version/)
 
 ***
 
