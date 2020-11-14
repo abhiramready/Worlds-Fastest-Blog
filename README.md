@@ -39,5 +39,5 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 ***
 📍 I am working on a series of articles on how I did all of this so, stay tuned.
 
-📍 [Join Matrixread Newletter](https://matrixread.com/newsletter) for updates.
+📍 [Join Matrixread Newletter](https://matrixread.com/newsletter) for more updates.
 
