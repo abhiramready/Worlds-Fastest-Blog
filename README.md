@@ -5,9 +5,9 @@
 On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 </p>
 <samp>
-<p align="center">
+<h3 align="center">
 <a href="https://matrixread.com/">MATRIXREAD</a>
-</p>
+</h3>
 </samp>	
 
 ## Highlights🔥
