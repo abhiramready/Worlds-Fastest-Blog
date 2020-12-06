@@ -4,9 +4,11 @@
 <p align="center">
 On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 </p>
+<samp>
 <p align="center">
-<a href="https://matrixread.com/">matrixread.com</a>
+<a href="https://matrixread.com/">MATRIXREAD</a>
 </p>
+</samp>	
 
 ## Highlights🔥
 
