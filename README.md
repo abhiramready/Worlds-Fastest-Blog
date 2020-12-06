@@ -39,7 +39,10 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 * Lazyloading with LQIP [Low Quality Image Placeholder]
 
 ***
+
+📍 [Styling](https://matrixread.com/tag/personalize/) Matrixread
+
 📍 I am working on a series of articles on how I did all of this so, stay tuned.
 
-📍 [Join Matrixread Newletter](https://matrixread.com/newsletter) for more updates.
+📍 Join [Matrixread Newletter](https://matrixread.com/newsletter) for more updates.
 
