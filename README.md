@@ -22,7 +22,7 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 
 * see the whole timeline [here](https://matrixread.com/version/)
 
-## Technical🤖 Changelog📑
+## Technical Changelog📑
 
 ### Matrixread v2.0 [October 2020]
 * Intelligent Edge Caching
