@@ -10,7 +10,7 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 </h3>
 </samp>	
 
-## Highlights🔥
+## 🔥 Highlights
 
 * Unique, Custom coded them🌻
 *  Capable of handling [10,000] Users/Min🎯
@@ -18,11 +18,11 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 * [16000+] visitors till date from over 68 countries🙌
 * GTMerix Pagespeed Score [99], Lighthouse Overall Score [99-100]💯
 
-## Design🎨 Version
+## 🎨 Design Version
 
 * see the whole timeline [here](https://matrixread.com/version/)
 
-## Technical Changelog📑
+## 📑 Technical Changelog
 
 ### Matrixread v2.0 [October 2020]
 * Intelligent Edge Caching
