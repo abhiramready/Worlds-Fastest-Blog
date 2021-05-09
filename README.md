@@ -15,7 +15,7 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 * Unique, Custom coded them🌻
 *  Capable of handling [10,000] Users/Min🎯
 * Super Optimized & Superfast WordPress Blog✅
-* [16000+] visitors till date from over 68 countries🙌
+* [20,000+] visitors till date from over 68 countries🙌
 * GTMerix Pagespeed Score [99], Lighthouse Overall Score [99-100]💯
 
 ## 🎨 Design Version
@@ -23,6 +23,11 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 * see the whole timeline [here](https://matrixread.com/version/)
 
 ## 📋 Technical Changelog
+
+### Matrixread v3.0 [May 2021]
+* Minimalist design
+* A pinch of Material Design
+* Plugin count decreased from 20 to 14 🥳
 
 ### Matrixread v2.0 [October 2020]
 * Intelligent Edge Caching
