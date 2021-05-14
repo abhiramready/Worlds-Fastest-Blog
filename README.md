@@ -4,11 +4,9 @@
 <p align="center">
 On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 </p>
-<samp>
 <h3 align="center">
 <a href="https://matrixread.com/">MATRIXREAD</a>
 </h3>
-</samp>	
 
 ## 🔥 Highlights
 
@@ -27,7 +25,7 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 ### Matrixread v3.0 [May 2021]
 * Minimalist design
 * A pinch of Material Design
-* Plugin count decreased from 20 to 14 🥳
+* Plugin count decreased from 20 to 14 🎉
 
 ### Matrixread v2.0 [October 2020]
 * Intelligent Edge Caching
