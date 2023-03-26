@@ -30,4 +30,4 @@
 * Built with WordPress🏗️
 * [Watch the Demo on YouTube](https://www.youtube.com/watch?v=lnvsuNZURR0)▶️
 * Launched on [1st of July 2020]🚀
-* Lazyloading with LQIP [Low Quality Image Placeholder]🖼️
+* Lazyloading with LQIP [Low-Quality Image Placeholder]🖼️
