@@ -15,9 +15,9 @@
 ## 📋 Technical Changelog
 
 ### Matrixread v3.0 [May 2021]
-* Plugin count decreased from 20 to 10⚡
+* The Plugin count decreased from 20 to 10⚡
 * Comments via GitHub discussion API with Giscus💭
-* Custom CSS theme for a minimal and app like UI🎨
+* Custom CSS theme for a minimal and app-like UI🎨
 
 ### Matrixread v2.0 [October 2020]
 * CloudFlare CDN Caching🌩️
