@@ -1,20 +1,16 @@
 <h1 align="center">
 	🌏Worlds 🚀Fastest 📰Blog
 </h1>
-<p align="center">
-On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
-</p>
 <h3 align="center">
 <a href="https://matrixread.com/">MATRIXREAD</a>
 </h3>
 
 ## 🔥 Highlights
-
-* Unique, Custom coded them🌻
-*  Capable of handling [10,000] Users/Min🎯
-* Super Optimized & Superfast WordPress Blog✅
-* [25,000+] visitors till date from over 68 countries🙌
-* GTMerix Pagespeed Score [99], Lighthouse Overall Score [99-100]💯
+- Attracts over 12,000 visitors annually🚀
+- Customized CSS and UI for a unique and personalized blog✍️
+- "A" grade in GTMetrix and a perfect Lighthouse PageSpeed score of 100💯
+- Minimal and optimized plugin configuration for High-Performance loading speed✅
+- Learned to set up and manage a Content Delivery Network, Domain, and Shared Hosting📖
 
 ## 🎨 Design Version
 
@@ -40,13 +36,3 @@ On a mission to Deliver Secure, Fast, Optimized, and Accessible content.
 * Launched on [1st of July 2020🚀]
 * Cookieless and Secure, HTTPS preloaded🔒
 * Lazyloading with LQIP [Low Quality Image Placeholder]
-
-***
-
-📍 [Styling](https://matrixread.com/tag/personalize/) Matrixread
-
-📍 Join Matrixread [Newletter](https://matrixread.com/newsletter) for more updates.
-
-📍 I am working on a series of articles on how I did all of this so, stay tuned.
-
-
