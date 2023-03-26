@@ -12,10 +12,6 @@
 - Minimal and optimized plugin configuration for High-Performance loading speed✅
 - Learned to set up and manage a Content Delivery Network, Domain, and Shared Hosting📖
 
-## 🎨 Design Version
-
-* see the whole timeline [here](https://matrixread.com/version/)
-
 ## 📋 Technical Changelog
 
 ### Matrixread v3.0 [May 2021]
